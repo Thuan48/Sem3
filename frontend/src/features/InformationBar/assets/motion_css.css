@@ -1,0 +1,3 @@
+.grid_motion {
+  grid-template-columns: 0fr 1fr !important;
+}
